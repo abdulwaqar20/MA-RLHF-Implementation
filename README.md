@@ -109,8 +109,6 @@ project/
 ├── requirements.txt
 ├── outputs/
 │   └── ppo_vs_mappo_comparison.png
-│
-└── models/
 ```
 
 ---
@@ -409,21 +407,6 @@ MA-RLHF paper:
 title={MA-RLHF: Macro Action Reinforcement Learning from Human Feedback},
 author={Authors},
 year={2025}
-}
-```
-
----
-
-## Citation
-
-If you use this implementation:
-
-```bibtex
-@misc{mappo_rlhf,
-author = {Your Name},
-title = {MA-PPO for RLHF: Macro Action Reinforcement Learning from Human Feedback},
-year = {2026},
-publisher = {GitHub}
 }
 ```
 
